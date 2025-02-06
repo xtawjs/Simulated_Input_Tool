@@ -74,7 +74,7 @@ The tool runs in the background as a system tray icon and listens for middle mou
 
 - For non-ASCII characters (such as Chinese), use the `type()` method in `pynput.keyboard.Controller` to input them directly.
 
-- This tool is only compatible with the US QWERTY keyboard layout.
+- This tool is only compatible with the US QWERTY keyboard layout.When using, please switch to the English input method.
 
 
 ## Dependencies

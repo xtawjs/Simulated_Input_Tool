@@ -74,7 +74,7 @@
 
 - 对非 ASCII 字符（如中文），使用 pynput.keyboard.Controller 中 type() 方法方法直接输入。
 
-- 仅可用于美式 QWERTY 键盘布局下。
+- 仅可用于美式 QWERTY 键盘布局下，使用时请切换到英文输入法下。
 
 
 ## Dependencies
