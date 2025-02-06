@@ -1,0 +1,16 @@
+Simulated_Input_Tool includes the following third-party libraries:
+
+1. pynput (MIT License)
+   https://github.com/moses-palmer/pynput
+
+2. pystray (MIT License)
+   https://github.com/moses-palmer/pystray
+
+3. pyperclip (BSD License)
+   https://github.com/asweigart/pyperclip
+
+4. Pillow (HPND License)
+   https://github.com/python-pillow/Pillow
+
+Each dependency is licensed under its respective open-source license.
+Refer to the original repositories for license details.
